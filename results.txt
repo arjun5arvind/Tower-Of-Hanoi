@@ -1,0 +1,48 @@
+Moves	Time	No of Disk
+470	6058	7
+
+Moves	Time	No of Disk
+237	53828	7
+
+Moves	Time	No of Disk
+3	5305	2
+
+Moves	Time	No of Disk
+3	5308	2
+
+Moves	Time	No of Disk
+1	5304	1
+
+Moves	Time	No of Disk
+2	5304	1
+
+Moves	Time	No of Disk
+3	5309	2
+
+Moves	Time	No of Disk
+3	5307	2
+
+Moves	Time	No of Disk
+7	53016	3
+
+Moves	Time	No of Disk
+1	5309	1
+Time: 53011
+
+Moves	Time	No of Disk
+7	53011	3
+
+Moves	Time	No of Disk
+7	53015	3
+
+Moves	Time	No of Disk
+2	5309	1
+
+Moves	Time	No of Disk
+15	53050	4
+
+Moves	Time	No of Disk
+7	53040	3
+
+Moves	Time	No of Disk
+3	5309	2
